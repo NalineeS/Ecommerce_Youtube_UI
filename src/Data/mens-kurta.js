@@ -1,0 +1,527 @@
+export const mens_kurta=[
+    {
+        "imageUrl":"https://5.imimg.com/data5/SELLER/Default/2022/8/FE/QD/AS/18451800/simple-indian-kurta-looks-heavy-cotton-slub-with-lucknowi-work-mens-kurta-set.jpeg",
+        "brand":"SG LENAN",
+        "title":"Men Embroidered Jacquard Straight Kurta",
+        "color":"Purple",
+        "discountedPrice":799,
+        "price":2499,
+        "discountPercentage":"70% off",
+        "size":[
+            { "name":"S","Quantity":20},
+            {"name":"M","Quantity":20},
+            {"name":"L","Quantity":20},
+            {"name":"XL","Quantity":20},
+            {"name":"XXL","Quantity":20}
+        ],
+        "quantity":100,
+        "toplevelCategory":"mens",
+        "secondLevelCategory":"clothing",
+        "thirdLevelCategory":"mens_Kurta",
+        "description":"A traditional garment for mens"
+    },
+    {
+        "imageUrl":"https://www.wholesalecatalog.in/images/product/2023/04/chiflli-mens-kurta-pajama-wholesale-price-2023-04-03_13_14_46.jpeg",
+        "brand":"SG LENAN",
+        "title":"Men Embroidered Jacquard Straight Kurta",
+        "color":"yellow",
+        "discountedPrice":799,
+        "price":2499,
+        "discountPercentage":"50% off",
+        "size":[
+            { "name":"S","Quantity":20},
+            {"name":"M","Quantity":20},
+            {"name":"L","Quantity":20},
+            {"name":"XL","Quantity":20},
+            {"name":"XXL","Quantity":20}
+        ],
+        "quantity":100,
+        "toplevelCategory":"mens",
+        "secondLevelCategory":"clothing",
+        "thirdLevelCategory":"mens_Kurta",
+        "description":"A traditional garment for mens"
+    },
+    {
+        "imageUrl":"https://media.nihalfashions.com/media/catalog/product/cache/caa15edf98145413286703527de7b8dd/g/r/grey-cotton-mens-kurta-pajama-nmk-6148.jpg",
+        "brand":"SG LENAN",
+        "title":"Men Embroidered Jacquard Straight Kurta",
+        "color":"Sky blue",
+        "discountedPrice":799,
+        "price":2499,
+        "discountPercentage":"25% off",
+        "size":[
+            { "name":"S","Quantity":20},
+            {"name":"M","Quantity":20},
+            {"name":"L","Quantity":20},
+            {"name":"XL","Quantity":20},
+            {"name":"XXL","Quantity":20}
+        ],
+        "quantity":100,
+        "toplevelCategory":"mens",
+        "secondLevelCategory":"clothing",
+        "thirdLevelCategory":"mens_Kurta",
+        "description":"A traditional garment for mens"
+    },
+    {
+        "imageUrl":"https://www.tistabene.com/cdn/shop/products/KRT-0287A.jpg?v=1694081024",
+        "brand":"SG LENAN",
+        "title":"Men Embroidered Jacquard Straight Kurta",
+        "color":"yellow",
+        "discountedPrice":799,
+        "price":2499,
+        "size":[
+            { "name":"S","Quantity":20},
+            {"name":"M","Quantity":20},
+            {"name":"L","Quantity":20},
+            {"name":"XL","Quantity":20},
+            {"name":"XXL","Quantity":20}
+        ],
+        "quantity":100,
+        "toplevelCategory":"mens",
+        "secondLevelCategory":"clothing",
+        "thirdLevelCategory":"mens_Kurta",
+        "description":"A traditional garment for mens"
+    },
+    {
+        "imageUrl":"https://wholetex.sgp1.cdn.digitaloceanspaces.com/full/heavy-printed-embroidery-work-mens-kurta-5708.jpg",
+        "brand":"SG LENAN",
+        "title":"Men Embroidered Jacquard Straight Kurta",
+        "color":"Sky blue",
+        "discountedPrice":799,
+        "price":2499,
+        "discountPercentage":"60% off",
+        "size":[
+            { "name":"S","Quantity":20},
+            {"name":"M","Quantity":20},
+            {"name":"L","Quantity":20},
+            {"name":"XL","Quantity":20},
+            {"name":"XXL","Quantity":20}
+        ],
+        "quantity":100,
+        "toplevelCategory":"mens",
+        "secondLevelCategory":"clothing",
+        "thirdLevelCategory":"mens_Kurta",
+        "description":"A traditional garment for mens"
+    },
+    {
+        "imageUrl":"https://www.parivarceremony.com/media/catalog/product/cache/62408a38a401bb86dbe3ed2f017b539f/p/1/p1013mw17.jpg",
+        "brand":"Cotton",
+        "title":"Men Embroidered Jacquard Straight Kurta",
+        "color":"Pista",
+        "discountedPrice":799,
+        "price":2499,
+        "discountPercentage":"70% off",
+        "size":[
+            { "name":"S","Quantity":20},
+            {"name":"M","Quantity":20},
+            {"name":"L","Quantity":20},
+            {"name":"XL","Quantity":20},
+            {"name":"XXL","Quantity":20}
+        ],
+        "quantity":100,
+        "toplevelCategory":"mens",
+        "secondLevelCategory":"clothing",
+        "thirdLevelCategory":"mens_Kurta",
+        "description":"A traditional garment for mens"
+    },
+    {
+        "imageUrl":"https://cpimg.tistatic.com/03309212/b/5/Mens-Kurta-Pyjama.jpg",
+        "brand":"SG LENAN",
+        "title":"Men Embroidered Jacquard Straight Kurta",
+        "color":"maroon",
+        "discountedPrice":799,
+        "price":2499,
+        "discountPercentage":"50% off",
+        "size":[
+            { "name":"S","Quantity":20},
+            {"name":"M","Quantity":20},
+            {"name":"L","Quantity":20},
+            {"name":"XL","Quantity":20},
+            {"name":"XXL","Quantity":20}
+        ],
+        "quantity":100,
+        "toplevelCategory":"mens",
+        "secondLevelCategory":"clothing",
+        "thirdLevelCategory":"mens_Kurta",
+        "description":"A traditional garment for mens"
+    },
+    {
+        "imageUrl":"https://wholetex.sgp1.cdn.digitaloceanspaces.com/full/vol-3-mirror-work-soft-cotton-only-mens-kurta-858.jpg",
+        "brand":"SG LENAN",
+        "title":"Men Embroidered Jacquard Straight Kurta",
+        "color":"gray",
+        "discountedPrice":799,
+        "price":2499,
+        "discountPercentage":"70% off",
+        "size":[
+            { "name":"S","Quantity":20},
+            {"name":"M","Quantity":20},
+            {"name":"L","Quantity":20},
+            {"name":"XL","Quantity":20},
+            {"name":"XXL","Quantity":20}
+        ],
+        "quantity":100,
+        "toplevelCategory":"mens",
+        "secondLevelCategory":"clothing",
+        "thirdLevelCategory":"mens_Kurta",
+        "description":"A traditional garment for mens"
+    },
+    {
+        "imageUrl":"https://media.nihalfashions.com/media/catalog/product/cache/caa15edf98145413286703527de7b8dd/j/a/jaquard-art-silk-green-mens-kurta-pajama-nmk-6624.jpg",
+        "brand":"SG LENAN",
+        "title":"Men Embroidered Jacquard Straight Kurta",
+        "color":"brown",
+        "discountedPrice":799,
+        "price":2499,
+        "discountPercentage":"50% off",
+        "size":[
+            { "name":"S","Quantity":20},
+            {"name":"M","Quantity":20},
+            {"name":"L","Quantity":20},
+            {"name":"XL","Quantity":20},
+            {"name":"XXL","Quantity":20}
+        ],
+        "quantity":100,
+        "toplevelCategory":"mens",
+        "secondLevelCategory":"clothing",
+        "thirdLevelCategory":"mens_Kurta",
+        "description":"A traditional garment for mens"
+    },
+    {
+        "imageUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOHcuhCgyh1ulxfLh3EzTxySCcc8b3HF5tYA&usqp=CAU",
+        "brand":"SG LENAN",
+        "title":"Men Embroidered Jacquard Straight Kurta",
+        "color":"green",
+        "discountedPrice":799,
+        "price":2499,
+        "discountPercentage":"70% off",
+        "size":[
+            { "name":"S","Quantity":20},
+            {"name":"M","Quantity":20},
+            {"name":"L","Quantity":20},
+            {"name":"XL","Quantity":20},
+            {"name":"XXL","Quantity":20}
+        ],
+        "quantity":100,
+        "toplevelCategory":"mens",
+        "secondLevelCategory":"clothing",
+        "thirdLevelCategory":"mens_Kurta",
+        "description":"A traditional garment for mens"
+    },
+    {
+        "imageUrl":"https://rukminim2.flixcart.com/image/850/1000/xif0q/ethnic-set/f/h/k/l-gd-501-yellow-l-i1-flossy-original-imagmxgedhtdcnye.jpeg?q=90",
+        "brand":"SG LENAN",
+        "title":"Men Embroidered Jacquard Straight Kurta",
+        "color":"yellow",
+        "discountedPrice":799,
+        "price":2499,
+        "discountPercentage":"80% off",
+        "size":[
+            { "name":"S","Quantity":20},
+            {"name":"M","Quantity":20},
+            {"name":"L","Quantity":20},
+            {"name":"XL","Quantity":20},
+            {"name":"XXL","Quantity":20}
+        ],
+        "quantity":100,
+        "toplevelCategory":"mens",
+        "secondLevelCategory":"clothing",
+        "thirdLevelCategory":"mens_Kurta",
+        "description":"A traditional garment for mens"
+    },
+    {
+        "imageUrl":"https://www.mangaldeep.co.in/image/cache/data/yellow-color-art-silk-fancy-mens-kurta-set-44080-800x1100.jpg",
+        "brand":"SG LENAN",
+        "title":"Men Embroidered Jacquard Straight Kurta",
+        "color":"orange",
+        "discountedPrice":799,
+        "price":2499,
+        "discountPercentage":"20% off",
+        "size":[
+            { "name":"S","Quantity":20},
+            {"name":"M","Quantity":20},
+            {"name":"L","Quantity":20},
+            {"name":"XL","Quantity":20},
+            {"name":"XXL","Quantity":20}
+        ],
+        "quantity":100,
+        "toplevelCategory":"mens",
+        "secondLevelCategory":"clothing",
+        "thirdLevelCategory":"mens_Kurta",
+        "description":"A traditional garment for mens"
+    },
+    {
+        "imageUrl":"https://5.imimg.com/data5/SELLER/Default/2022/8/FE/QD/AS/18451800/simple-indian-kurta-looks-heavy-cotton-slub-with-lucknowi-work-mens-kurta-set.jpeg",
+        "brand":"SG LENAN",
+        "title":"Men Embroidered Jacquard Straight Kurta",
+        "color":"Purple",
+        "discountedPrice":799,
+        "price":2499,
+        "discountPercentage":"70% off",
+        "size":[
+            { "name":"S","Quantity":20},
+            {"name":"M","Quantity":20},
+            {"name":"L","Quantity":20},
+            {"name":"XL","Quantity":20},
+            {"name":"XXL","Quantity":20}
+        ],
+        "quantity":100,
+        "toplevelCategory":"mens",
+        "secondLevelCategory":"clothing",
+        "thirdLevelCategory":"mens_Kurta",
+        "description":"A traditional garment for mens"
+    },
+    {
+        "imageUrl":"https://www.wholesalecatalog.in/images/product/2023/04/chiflli-mens-kurta-pajama-wholesale-price-2023-04-03_13_14_46.jpeg",
+        "brand":"SG LENAN",
+        "title":"Men Embroidered Jacquard Straight Kurta",
+        "color":"yellow",
+        "discountedPrice":799,
+        "price":2499,
+        "discountPercentage":"50% off",
+        "size":[
+            { "name":"S","Quantity":20},
+            {"name":"M","Quantity":20},
+            {"name":"L","Quantity":20},
+            {"name":"XL","Quantity":20},
+            {"name":"XXL","Quantity":20}
+        ],
+        "quantity":100,
+        "toplevelCategory":"mens",
+        "secondLevelCategory":"clothing",
+        "thirdLevelCategory":"mens_Kurta",
+        "description":"A traditional garment for mens"
+    },
+    {
+        "imageUrl":"https://media.nihalfashions.com/media/catalog/product/cache/caa15edf98145413286703527de7b8dd/g/r/grey-cotton-mens-kurta-pajama-nmk-6148.jpg",
+        "brand":"SG LENAN",
+        "title":"Men Embroidered Jacquard Straight Kurta",
+        "color":"Sky blue",
+        "discountedPrice":799,
+        "price":1999,
+        "discountPercentage":"80% off",
+        "size":[
+            { "name":"S","Quantity":20},
+            {"name":"M","Quantity":20},
+            {"name":"L","Quantity":20},
+            {"name":"XL","Quantity":20},
+            {"name":"XXL","Quantity":20}
+        ],
+        "quantity":100,
+        "toplevelCategory":"mens",
+        "secondLevelCategory":"clothing",
+        "thirdLevelCategory":"mens_Kurta",
+        "description":"A traditional garment for mens"
+    },
+    {
+        "imageUrl":"https://www.tistabene.com/cdn/shop/products/KRT-0287A.jpg?v=1694081024",
+        "brand":"SG LENAN",
+        "title":"Men Embroidered Jacquard Straight Kurta",
+        "color":"yellow",
+        "discountedPrice":799,
+        "price":2499,
+        "discountPercentage":"70% off",
+        "size":[
+            { "name":"S","Quantity":20},
+            {"name":"M","Quantity":20},
+            {"name":"L","Quantity":20},
+            {"name":"XL","Quantity":20},
+            {"name":"XXL","Quantity":20}
+        ],
+        "quantity":100,
+        "toplevelCategory":"mens",
+        "secondLevelCategory":"clothing",
+        "thirdLevelCategory":"mens_Kurta",
+        "description":"A traditional garment for mens"
+    },
+    {
+        "imageUrl":"https://wholetex.sgp1.cdn.digitaloceanspaces.com/full/heavy-printed-embroidery-work-mens-kurta-5708.jpg",
+        "brand":"SG LENAN",
+        "title":"Men Embroidered Jacquard Straight Kurta",
+        "color":"Sky blue",
+        "discountedPrice":799,
+        "price":2499,
+        "discountPercentage":"70% off",
+        "size":[
+            { "name":"S","Quantity":20},
+            {"name":"M","Quantity":20},
+            {"name":"L","Quantity":20},
+            {"name":"XL","Quantity":20},
+            {"name":"XXL","Quantity":20}
+        ],
+        "quantity":100,
+        "toplevelCategory":"mens",
+        "secondLevelCategory":"clothing",
+        "thirdLevelCategory":"mens_Kurta",
+        "description":"A traditional garment for mens"
+    },
+    {
+        "imageUrl":"https://www.parivarceremony.com/media/catalog/product/cache/62408a38a401bb86dbe3ed2f017b539f/p/1/p1013mw17.jpg",
+        "brand":"Cotton",
+        "title":"Men Embroidered Jacquard Straight Kurta",
+        "color":"Pista",
+        "discountedPrice":799,
+        "price":2499,
+        "discountPercentage":"70% off",
+        "size":[
+            { "name":"S","Quantity":20},
+            {"name":"M","Quantity":20},
+            {"name":"L","Quantity":20},
+            {"name":"XL","Quantity":20},
+            {"name":"XXL","Quantity":20}
+        ],
+        "quantity":100,
+        "toplevelCategory":"mens",
+        "secondLevelCategory":"clothing",
+        "thirdLevelCategory":"mens_Kurta",
+        "description":"A traditional garment for mens"
+    },
+    {
+        "imageUrl":"https://cpimg.tistatic.com/03309212/b/5/Mens-Kurta-Pyjama.jpg",
+        "brand":"SG LENAN",
+        "title":"Men Embroidered Jacquard Straight Kurta",
+        "color":"maroon",
+        "discountedPrice":799,
+        "price":2499,
+        "discountPercentage":"70% off",
+        "size":[
+            { "name":"S","Quantity":20},
+            {"name":"M","Quantity":20},
+            {"name":"L","Quantity":20},
+            {"name":"XL","Quantity":20},
+            {"name":"XXL","Quantity":20}
+        ],
+        "quantity":100,
+        "toplevelCategory":"mens",
+        "secondLevelCategory":"clothing",
+        "thirdLevelCategory":"mens_Kurta",
+        "description":"A traditional garment for mens"
+    },
+    {
+        "imageUrl":"https://wholetex.sgp1.cdn.digitaloceanspaces.com/full/vol-3-mirror-work-soft-cotton-only-mens-kurta-858.jpg",
+        "brand":"SG LENAN",
+        "title":"Men Embroidered Jacquard Straight Kurta",
+        "color":"gray",
+        "discountedPrice":799,
+        "price":2499,
+        "discountPercentage":"60% off",
+        "size":[
+            { "name":"S","Quantity":20},
+            {"name":"M","Quantity":20},
+            {"name":"L","Quantity":20},
+            {"name":"XL","Quantity":20},
+            {"name":"XXL","Quantity":20}
+        ],
+        "quantity":100,
+        "toplevelCategory":"mens",
+        "secondLevelCategory":"clothing",
+        "thirdLevelCategory":"mens_Kurta",
+        "description":"A traditional garment for mens"
+    },
+    {
+        "imageUrl":"https://media.nihalfashions.com/media/catalog/product/cache/caa15edf98145413286703527de7b8dd/j/a/jaquard-art-silk-green-mens-kurta-pajama-nmk-6624.jpg",
+        "brand":"SG LENAN",
+        "title":"Men Embroidered Jacquard Straight Kurta",
+        "color":"brown",
+        "discountedPrice":799,
+        "price":2499,
+        "discountPercentage":"40% off",
+        "size":[
+            { "name":"S","Quantity":20},
+            {"name":"M","Quantity":20},
+            {"name":"L","Quantity":20},
+            {"name":"XL","Quantity":20},
+            {"name":"XXL","Quantity":20}
+        ],
+        "quantity":100,
+        "toplevelCategory":"mens",
+        "secondLevelCategory":"clothing",
+        "thirdLevelCategory":"mens_Kurta",
+        "description":"A traditional garment for mens"
+    },
+    {
+        "imageUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOHcuhCgyh1ulxfLh3EzTxySCcc8b3HF5tYA&usqp=CAU",
+        "brand":"SG LENAN",
+        "title":"Men Embroidered Jacquard Straight Kurta",
+        "color":"green",
+        "discountedPrice":799,
+        "price":2499,
+        "discountPercentage":"70% off",
+        "size":[
+            { "name":"S","Quantity":20},
+            {"name":"M","Quantity":20},
+            {"name":"L","Quantity":20},
+            {"name":"XL","Quantity":20},
+            {"name":"XXL","Quantity":20}
+        ],
+        "quantity":100,
+        "toplevelCategory":"mens",
+        "secondLevelCategory":"clothing",
+        "thirdLevelCategory":"mens_Kurta",
+        "description":"A traditional garment for mens"
+    },
+    {
+        "imageUrl":"https://rukminim2.flixcart.com/image/850/1000/xif0q/ethnic-set/f/h/k/l-gd-501-yellow-l-i1-flossy-original-imagmxgedhtdcnye.jpeg?q=90",
+        "brand":"SG LENAN",
+        "title":"Men Embroidered Jacquard Straight Kurta",
+        "color":"yellow",
+        "discountedPrice":799,
+        "price":2499,
+        "discountPercentage":"70% off",
+        "size":[
+            { "name":"S","Quantity":20},
+            {"name":"M","Quantity":20},
+            {"name":"L","Quantity":20},
+            {"name":"XL","Quantity":20},
+            {"name":"XXL","Quantity":20}
+        ],
+        "quantity":100,
+        "toplevelCategory":"mens",
+        "secondLevelCategory":"clothing",
+        "thirdLevelCategory":"mens_Kurta",
+        "description":"A traditional garment for mens"
+    },
+    {
+        "imageUrl":"https://www.mangaldeep.co.in/image/cache/data/yellow-color-art-silk-fancy-mens-kurta-set-44080-800x1100.jpg",
+        "brand":"SG LENAN",
+        "title":"Men Embroidered Jacquard Straight Kurta",
+        "color":"orange",
+        "discountedPrice":799,
+        "price":2499,
+        "discountPercentage":"70% off",
+        "size":[
+            { "name":"S","Quantity":20},
+            {"name":"M","Quantity":20},
+            {"name":"L","Quantity":20},
+            {"name":"XL","Quantity":20},
+            {"name":"XXL","Quantity":20}
+        ],
+        "quantity":100,
+        "toplevelCategory":"mens",
+        "secondLevelCategory":"clothing",
+        "thirdLevelCategory":"mens_Kurta",
+        "description":"A traditional garment for mens"
+    },
+    {
+        "imageUrl":"https://assets.panashindia.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/7/4/745mw25-gc-3666.jpg",
+        "brand":"SG LENAN",
+        "title":"Men Embroidered Jacquard Straight Kurta",
+        "color":"pink",
+        "discountedPrice":799,
+        "price":2499,
+        "discountPercentage":"70% off",
+        "size":[
+            { "name":"S","Quantity":20},
+            {"name":"M","Quantity":20},
+            {"name":"L","Quantity":20},
+            {"name":"XL","Quantity":20},
+            {"name":"XXL","Quantity":20}
+        ],
+        "quantity":100,
+        "toplevelCategory":"mens",
+        "secondLevelCategory":"clothing",
+        "thirdLevelCategory":"mens_Kurta",
+        "description":"A traditional garment for mens"
+    }
+
+]
